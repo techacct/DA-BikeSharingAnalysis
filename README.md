@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> This dataset Ford Gobike includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area, and it comprises 183412 rows and 16 columns 
+> This dataset Ford Gobike includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area for February 2019, and it comprises 183412 rows and 16 columns 
 
 
 ## Summary of Findings
